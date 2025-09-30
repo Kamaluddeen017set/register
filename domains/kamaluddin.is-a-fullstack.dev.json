@@ -7,7 +7,7 @@
     "email": "kamaluddeenaliyuahmad017@gmail.com"
   },
   "record": {
-    "CNAME": "devkhamal.vercel.app"
+      "CNAME": "devkhamal.vercel.app"
   },
   "proxied": false
 }
