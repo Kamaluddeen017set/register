@@ -8,6 +8,7 @@
   },
   "record": {
       "CNAME": "devkhamal.vercel.app"
+        "TXT": "google-site-verification=VLB_60Dc6ZMEqpdpZEFKz1bJMok5XPFspTMemn_tnh4"
   },
-  "proxied": false
+  "proxied": true
 }
